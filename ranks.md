@@ -1,1 +1,3 @@
-# The Gamer Club Ranks
+![Gamer Club Logo](logo.gif)
+
+# Ranks

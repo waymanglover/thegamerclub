@@ -1,1 +1,3 @@
-# The Gamer Club Lobby
+![Gamer Club Logo](logo.gif)
+
+# Lobby

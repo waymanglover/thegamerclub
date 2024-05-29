@@ -1,4 +1,6 @@
-# The Gamer Club
+![Gamer Club Logo](logo.gif)
+
+# Club
 
 [Ranks](./ranks)
 
