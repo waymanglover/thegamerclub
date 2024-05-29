@@ -1,6 +1,4 @@
-![Gamer Club Logo](logo.gif)
-
-# Club
+![Gamer Club Logo](logo.png)
 
 [Ranks](./ranks)
 

@@ -1,3 +1,3 @@
-![Gamer Club Logo](logo.gif)
+![Gamer Club Logo](logo.png)
 
 # Lobby
