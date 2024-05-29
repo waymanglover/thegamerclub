@@ -1,0 +1,12 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.project-name {
+    background-image: linear-gradient(cyan, darkcyan);
+    color: transparent;    
+    background-clip: text;
+    -webkit-background-clip: text;
+    filter: drop-shadow(2px 2px #333);
+}
