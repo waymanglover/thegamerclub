@@ -2,7 +2,7 @@
 
 (<span style="color:lightgray">Gray text</span> means you can choose the color of said text)
 
-##
+## No Rank
 Requires:
   - Nothing
 
