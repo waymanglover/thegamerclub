@@ -1,3 +1,6 @@
+* Contents
+{:toc}
+
 # Main ranks
 
 (<span style="color:lightgray">Gray text</span> means you can choose the color of said text)
